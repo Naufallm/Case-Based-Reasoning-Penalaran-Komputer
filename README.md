@@ -70,11 +70,3 @@ Untuk memulai, pastikan Anda berada di direktori utama repositori dan lingkungan
 jupyter notebook notebooks/case-based-reasoning.ipynb
 
 Selanjutnya, ikuti instruksi di dalam notebook untuk menjalankan pipeline.
-
-Hasil
-
-Hasil eksperimen menunjukkan bahwa meskipun kedua model memiliki akurasi yang sama, model berbasis TF-IDF menunjukkan kinerja yang jauh lebih unggul pada metrik lainnya, menjadikannya pendekatan yang lebih andal untuk kasus penggunaan ini.
-
-Model	Akurasi	F1-Score	Presisi	Recall
-TF-IDF + SVM	80%	0.70	0.73	0.70
-IndoBERT + SVM	80%	0.51	0.58	0.50
