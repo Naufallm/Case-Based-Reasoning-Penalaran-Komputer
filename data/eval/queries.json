@@ -1,0 +1,27 @@
+[
+    {
+        "query": "pencurian terdakwa saksi mahkamah agung republik indonesia",
+        "ground_truth_case_id": 40,
+        "notes": "Query referensi dari user (keyword-based)."
+    },
+    {
+        "query": "Terdakwa pencurian mengajukan banding ke Mahkamah Agung Republik Indonesia setelah kesaksian saksi memberatkannya",
+        "ground_truth_case_id": 40,
+        "notes": "Query semantik untuk kasus narkotika."
+    },
+    {
+        "query": "Mahkamah Agung Republik Indonesia menjatuhkan vonis kepada terdakwa pencurian setelah mendengarkan saksi",
+        "ground_truth_case_id": 40,
+        "notes": "Query spesifik untuk kasus perdata."
+    },
+    {
+        "query": "Mahkamah Agung Republik Indonesia memproses kasus pencurian ini secara transparan dengan menghadirkan saksi dan terdakwa",
+        "ground_truth_case_id": 59,
+        "notes": "Query semantik untuk kasus korupsi."
+    },
+    {
+        "query": "Republik Indonesia menindak tegas pelaku pencurian",
+        "ground_truth_case_id": 5,
+        "notes": "Query untuk kasus pidana umum."
+    }
+]

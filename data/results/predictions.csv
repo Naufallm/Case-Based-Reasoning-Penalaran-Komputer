@@ -1,0 +1,6 @@
+query_id,predicted_solution,top_5_case_ids
+1,Lain-lain,"40, 1, 12, 69, 43"
+2,Lain-lain,"40, 65, 8, 43, 59"
+3,Lain-lain,"40, 65, 59, 28, 43"
+4,Lain-lain,"59, 34, 69, 12, 65"
+5,Lain-lain,"34, 12, 58, 1, 67"

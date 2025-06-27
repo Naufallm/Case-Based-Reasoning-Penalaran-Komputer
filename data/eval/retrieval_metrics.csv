@@ -1,0 +1,7 @@
+Metric,Score,Model
+F1-score,0.6986111111111111,TF-IDF
+Precision,0.73,TF-IDF
+Recall,0.7,TF-IDF
+F1-score,0.5144841269841269,BERT Embeddings
+Precision,0.5772727272727273,BERT Embeddings
+Recall,0.5,BERT Embeddings
